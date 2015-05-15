@@ -1,0 +1,3 @@
+# stinkysgti
+
+read dis
